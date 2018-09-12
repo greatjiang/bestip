@@ -1,0 +1,2 @@
+# bestip
+get ip
