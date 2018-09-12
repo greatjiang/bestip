@@ -1,0 +1,26 @@
+{
+  "name": "bestip",
+  "version": "1.0.2",
+  "description": "get ip",
+  "main": "index.js",
+  "bin": {
+    "showip": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "getip",
+    "ip"
+  ],
+  "author": "greatjiang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatjiang/bestip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greatjiang/bestip/issues"
+  },
+  "homepage": "https://github.com/greatjiang/bestip#readme"
+}
